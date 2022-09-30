@@ -11,6 +11,8 @@
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Repository structure](#repository-structure)
+  - Tableau(#Tableau)
+  - PowerBI(#PowerBI)
 
 ## Problem Statement
 
@@ -21,3 +23,16 @@ enterprise.
 
 Sales-trend -> month wise , year wise , yearly_month wise
 Find key metrics and factors and show the meaningful relationships between attributes.
+
+## Methods
+
+- Exploratory data analysis
+- Bivariant Analysis
+- Time Series Analysis
+
+## Tech Stack
+
+- Python (refer to requirement.txt for the packages used in this project)
+- Tableau
+- PowerBI
+- EDA
