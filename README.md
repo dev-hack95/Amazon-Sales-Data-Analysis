@@ -6,4 +6,4 @@
 
 ## Table of Contents
 
-- [Business Problem](#Business Problem)
+  - [Business problem](#business-problem)
