@@ -1,6 +1,8 @@
 # Amazon-Sales-Data-Analysis
 
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
+![Tableau](https://img.shields.io/badge/Tableau-BI-lightblue)
+![PowerBI](https://img.shields.io/badge/PowerBI-BI-lightyellow)
 
 ## Authors
 
