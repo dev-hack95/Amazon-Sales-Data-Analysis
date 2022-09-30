@@ -4,6 +4,10 @@
 ![Tableau](https://img.shields.io/badge/Tableau-BI-lightblue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-BI-lightyellow)
 
+## Project Status
+
+- In progress
+
 ## Authors
 
 - [@dev-hack95](https://www.github.com/dev-hack95)
