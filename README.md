@@ -1,3 +1,5 @@
+![Sales Analysis](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/dashboard.png)
+
 # Amazon-Sales-Data-Analysis
 
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
