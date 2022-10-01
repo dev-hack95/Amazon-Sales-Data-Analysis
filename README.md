@@ -42,7 +42,8 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 ## Tech Stack
 
-- Python (refer to requirement.txt for the packages used in this project)
+- Python (i.e. Numpy, Pandas, Plotly, Matplotlib, seaborn)
 - Tableau
 - PowerBI
 - EDA
+- D3.js
