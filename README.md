@@ -51,3 +51,4 @@ Find key metrics and factors and show the meaningful relationships between attri
 ## Quick glance at the results
 
 ![Heatmap](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/heatmap.png)
+![Year_2017](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/year_2017.png)
