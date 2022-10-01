@@ -50,7 +50,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 ## Quick glance at the results
 
-* Correlation
+* Correlation between the features
 
 ![Heatmap](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/heatmap.png)
 
