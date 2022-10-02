@@ -47,6 +47,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 - PowerBI
 - EDA
 - D3.js
+
   Load D3.js in Jupyter-Notebook
   
   ```bash
@@ -55,6 +56,13 @@ Find key metrics and factors and show the meaningful relationships between attri
      paths: {
         d3: 'https://d3js.org/d3.v7.min'
        }
+     })
+  ```
+  
+  ```bash
+     %%javascript
+      require(["d3"], function(d3){
+        console.log(d3)
      })
   ```
 
