@@ -3,6 +3,7 @@
 # Amazon-Sales-Data-Analysis
 
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
+![D#3](https://img.shields.io/badge/D3.js-v7.0-orange)
 ![Tableau](https://img.shields.io/badge/Tableau-BI-lightblue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-BI-lightyellow)
 
