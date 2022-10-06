@@ -68,9 +68,9 @@ Find key metrics and factors and show the meaningful relationships between attri
   ```
 
 ## Quick glance at the results
+![Word_cloud](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/word_cloud.png)
 
 * Correlation between the features
-![Word_cloud](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/word_cloud.png)
 
 ![Heatmap](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/heatmap.png)
 
