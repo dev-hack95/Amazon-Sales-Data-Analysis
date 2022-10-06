@@ -82,7 +82,7 @@ D3.js
 ![Year_2017](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/year_2017.png)
 
 * Year_2018
-![Year_2018]
+![Year_2018]![Year_2017](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/year_2018.gif)
 
 * Year_2019
 ![Year_2019]
