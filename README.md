@@ -21,7 +21,6 @@
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Repository structure](#repository-structure)
   - [Tableau](#Tableau)
   - [PowerBI](#PowerBI)
 
