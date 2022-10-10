@@ -92,4 +92,4 @@ D3.js
 ![PoweBI](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/PowerBI.gif)
 
 ## Tableau
-![Tableau](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/Tableau.gif)
+![Tableau](https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/AmazonSalesDataAnalysis_16555892375910/Dashboard1)
