@@ -90,3 +90,6 @@ D3.js
 
 ## PowerBI
 ![PoweBI](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/PowerBI.gif)
+
+## Tableau
+![Tableau](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/Tableau.gif)
