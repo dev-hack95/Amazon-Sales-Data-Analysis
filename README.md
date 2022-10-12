@@ -7,9 +7,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-BI-lightblue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-BI-lightyellow)
 
-## Project Status
-
-- In progress
 
 ## Authors
 
