@@ -63,23 +63,6 @@ Find key metrics and factors and show the meaningful relationships between attri
      })
   ```
 
-## Quick glance at the results
-![Word_cloud](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/word_cloud.png)
-
-* Correlation between the features
-
-![Heatmap](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/heatmap.png)
-
-* Year_2017(Month wise sales)
-
-
-
-![Year_2017](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/year_2017.png)
-
-
-
-
-
 
 
 ## PowerBI
