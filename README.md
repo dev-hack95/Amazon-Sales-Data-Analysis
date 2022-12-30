@@ -83,7 +83,7 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 
 ## PowerBI
-![PoweBI](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/PowerBI.gif)
+![PoweBI](https://user-images.githubusercontent.com/77664251/210039526-5f2a3d31-5636-49f5-9f2f-c45ea0294893.gif)
 
 ## Tableau
 Tableau dashboard [link](https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/AmazonSalesDataAnalysis_16555892375910/Dashboard1)
