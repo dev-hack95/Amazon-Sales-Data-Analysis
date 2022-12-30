@@ -1,4 +1,4 @@
-![Sales Analysis](https://github.com/dev-hack95/Amazon-Sales-Data-Analysis/blob/main/data/Images/dashboard.png)
+![Sales Analysis](https://user-images.githubusercontent.com/77664251/210041097-c41deac4-c472-4d91-a8f0-d332f653eaa5.png)
 
 # Amazon-Sales-Data-Analysis
 
